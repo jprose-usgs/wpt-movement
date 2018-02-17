@@ -9,4 +9,4 @@ mean(d$Y)
 
 # generate random numbers #
 rand <- rnorm(100, mean = 2, sd = 0.5)
-hist(rand)
+
